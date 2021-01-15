@@ -1,0 +1,38 @@
+.step-one{
+    padding-top: 70px;
+}
+.header{
+    background-color: #FFFBF0;
+}
+.navbar-light .navbar-nav .nav-link {
+    margin: 0px 20px;
+    color: #3C3C3C;
+}
+.bttn{
+    background-color: #A4BC46;
+    color: #ffffff;
+    width: 150px;
+    height: 50px;
+}
+.text1{
+    color: #FABE4C;
+}
+.text2{
+    color: #363958;
+}
+.text3{
+    color: #3E3E3E;
+}
+.extra-style{
+    background-color: #F1F1F1;
+    border-radius: 20px !important;
+    margin: 15px 8px  !important;
+    padding: 20px 25px !important;
+}
+.round-brdr{
+     border-radius: 20px !important;
+}
+.photo-style{
+    width: 100% !important;
+    height: 300px !important;
+}
